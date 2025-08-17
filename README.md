@@ -2,4 +2,5 @@
 Interactive Excel dashboard using Power Query &amp; Power Pivot
 
 ## 📊 Dashboard Preview
-![Candy Dashboard.png](Candy Dshboard.png)
+
+![Dashboard Screenshot](CandyDashboard.png)
